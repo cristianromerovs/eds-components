@@ -13,7 +13,7 @@ export class ButtonPrimary extends LitElement {
   }
 
   render() {
-    return html`<p>Hello, ${this.name}!</p>`;
+    return html`<p>Hello, ${this.name}!!</p>`;
   }
 }
 customElements.define('eds-button-primary', ButtonPrimary);
