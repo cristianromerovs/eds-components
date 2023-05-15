@@ -1,0 +1,5 @@
+{
+    "routes": [
+      { "src": "/components/(.*)", "dest": "/src/components/$1" }
+    ]
+  }
